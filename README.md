@@ -51,12 +51,13 @@ Utilizes React hooks for managing state and effects, ensuring smooth data handli
 Styling:
 
 Styled with CSS to resemble the YouTube interface, providing a familiar look and feel.
-Technologies Used:
 
+Technologies Used:
 React.js
 React Router
 YouTube Data API
 CSS
+
 Conclusion:
 The YouTube Clone project demonstrates proficiency in React development, API integration, and creating user-friendly web applications. It serves as a practical application of front-end technologies to replicate a complex platform like YouTube.
 
